@@ -1,3 +1,1 @@
-this is the url in render https://filesystem-nodejs.onrender.com
 
-to read file  "https://filesystem-nodejs.onrender.com/readefile/:foldername?filename={filename}"
